@@ -23,5 +23,5 @@ This is a simplified version of a task management web application SaaS. The appl
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/yourusername/task-manager.git
+git clonehttps://github.com/tushrtyagi/task-manager-saas/
 cd task-manager
